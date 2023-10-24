@@ -17,10 +17,10 @@
                 "remote": "SuperiorOS-Devices"
         },
 	{
-		"repository": "kernel_motorola_sm6150",
+		"repository": "cool585/android_kernel_motorola_sm6150",
 		"target_path": "kernel/motorola/sm6150",
-		"branch": "thirteen",
-		"remote": "SuperiorOS-Devices"
+		"branch": "lineage-20",
+		"remote": "github"
 	},
 	{
 		"repository": "DhineshCool/packages_apps_MotoActions",
