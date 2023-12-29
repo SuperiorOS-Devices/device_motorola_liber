@@ -21,11 +21,5 @@
 		"target_path": "kernel/motorola/sm6150",
 		"branch": "fourteen",
 		"remote": "SuperiorOS-Devices"
-	},
-	{
-		"repository": "DhineshCool/packages_apps_MotoActions",
-		"target_path": "packages/apps/MotoActions",
-		"branch": "fourteen",
-		"remote": "github"
 	}
 ]
